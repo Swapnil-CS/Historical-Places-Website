@@ -56,7 +56,7 @@ body {
 	font-weight: bold;
 }
 .navbar1 li a:hover {
-	color: red;
+	color: rgb(240, 16, 16);
 }
 .navbar1 li a.active {
 	color: rgb(230, 56, 56);
